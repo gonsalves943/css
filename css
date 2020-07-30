@@ -1,0 +1,44 @@
+*{
+	font-family: Montserrat
+}
+#services_offered{
+	margin-top: 50px;
+
+}
+.services-column{
+	padding: 20px;
+	text-align: center;
+
+}
+.services-content
+{
+	margin top: 20px;
+}
+
+#gallery{
+	margin-top: 100px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+button{
+	margin-top: 100px;
+}
+
+footer{
+	margin-top: 50PX;
+	background-color: black;
+	color: #FFFFFF;
+}
+.footer-link hover{
+
+	color: #FF0000;
+}
+ul{
+	list-style: none;
+}
